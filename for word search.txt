@@ -1,1 +1,0 @@
-install cygwin64 and mingw
