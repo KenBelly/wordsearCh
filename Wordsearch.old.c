@@ -159,7 +159,7 @@ void addWordsToPuzzle(char* wl[MAXWORDS], int puzzleSize_X, int puzzleSize_Y, in
 		//Select next word
 		strcpy(currWord, wl[i]);
 		
-		//Currently broken on Unix systems, looking to reimplement myself
+		//Currently broken on Unix systems, looking to reimplement myself once the puzzle is working again
 					// //flip coin to reverse word 
 					// if((rand()%(2)) == 0){
 					// 	strrev(wl[i]); //function in string.h to reverse a word.
